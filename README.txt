@@ -1,15 +1,5 @@
 CEN5106C COMPUTER NETWORKS : P2P File Sharing Project
-Team Members: Arpan Banerjee(9359-9083), Gloria Nazareth(8221-8035), Sanket Nayak(8895-9505)
-Group Number: 57
 
-There were some issues with the later half of the video uploaded on the UF one drive. So we have uploaded it on YouTube.
-YouTube Link: https://youtu.be/V61NjH0TneA
-
-One Drive Folder Link(Contains Video): https://uflorida-my.sharepoint.com/:f:/g/personal/sanketnayak_ufl_edu/Eq-pBpGSHmBHqlhipaSTtF8BUjAtiRj35LI5wLY63NNrYA?e=B4xtrH
-
-
-
-This README.txt gives a complete overview of the project implementation as per the requirement of Final Project Submission.
 
 'Project.zip' contains the Java Project (created in IntelliJ IDEA).
 
@@ -17,7 +7,7 @@ Software Specification:
 
 – Java version: 'OpenJDK 15' 
 
-Our program meets all of the following requirements:
+The program meets all of the following requirements:
 
 Part-1: Initializing the peer process– 
 
