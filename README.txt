@@ -1,8 +1,5 @@
 CEN5106C COMPUTER NETWORKS : P2P File Sharing Project
 
-
-'Project.zip' contains the Java Project (created in IntelliJ IDEA).
-
 Software Specification: 
 
 – Java version: 'OpenJDK 15' 
